@@ -1,4 +1,4 @@
-# Screenshpt of Converter:
+# Screenshot of Converter:
 
 ### Celsius to fahrenheit
 ![image](https://github.com/user-attachments/assets/598905fe-055b-4ebf-a723-4851e106511d)
