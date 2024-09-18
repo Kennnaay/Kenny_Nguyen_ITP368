@@ -6,7 +6,7 @@ import "package:flutter/material.dart";
 
 void main() // 23
 {
-  runApp(Yahtzee());
+  runApp(const Yahtzee());
 }
 
 class Yahtzee extends StatelessWidget {
@@ -14,7 +14,7 @@ class Yahtzee extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       title: "yahtzee",
       home: YahtzeeHome(),
     );
