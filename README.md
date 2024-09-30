@@ -1,5 +1,13 @@
-# I hope this works
+# Screenshot of Converter:
 
-This is what I've got so far:
+### Celsius to fahrenheit
+![image](https://github.com/user-attachments/assets/598905fe-055b-4ebf-a723-4851e106511d)
 
-![Screenshot 2024-09-10 171651](https://github.com/user-attachments/assets/73fc3eb8-5dad-4d67-8a9e-08f507c12b36)
+### Fahrenheit to celsius
+![image](https://github.com/user-attachments/assets/6910ded9-13c9-4e49-9b7f-f9b8175e4fbd)
+
+### Lbs to Kg
+![image](https://github.com/user-attachments/assets/03ae59f0-7f38-46ed-a812-d3f877d39781)
+
+Kg to Lbs
+![image](https://github.com/user-attachments/assets/2e6bfbfb-82df-4a31-8a95-475c021ee559)
